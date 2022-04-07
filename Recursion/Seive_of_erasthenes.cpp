@@ -7,7 +7,7 @@ using namespace std;
 int main()
 {
     freopen("input.txt","r",stdin);
-    freopen("output.txt", "w", stdout);
+    freopen("out.txt", "w",stdout);
 
     //this is to find all prime numbers less than n
     int n;
